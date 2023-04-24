@@ -7,6 +7,6 @@
 
 
 ##:smile:Made with Kashyap pathak(https://github.com/kashyappathak/ai/)
-## Refrence with And Credit Given By :eyes:&nbsp;  by(https://github.com/chandrikadeb7)
+## Refrence with And Credit Given By :eyes:&nbsp;  (chandrikadeb7)
 
 
