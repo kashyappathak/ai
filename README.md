@@ -8,7 +8,7 @@
 
 ##:smile:Made with Kashyap pathak(https://github.com/kashyappathak/ai/)
 
-##:eye: output
-
+##:eye: output with blog
+https://makdetection-kp.blogspot.com/
 
 
