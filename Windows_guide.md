@@ -20,11 +20,6 @@
 > pip3 install -r requirements.txt
 ```
 
-<p align="center">
-  <img src="Readme_images/win_cmd.png">
-</p>
-<p align="center">Example</p>
-
 ## Running the project
 
 1. Open terminal. Go into the cloned project directory and type the following command:
